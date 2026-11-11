@@ -1,0 +1,578 @@
+{
+ "title": "Shenzhen robotics and AI companies",
+ "checked": "2026-11-11",
+ "source": "https://shenzhenassistant.com/directory/robotics-ai",
+ "license": "CC BY 4.0",
+ "fields": [
+  "name",
+  "name_zh",
+  "category",
+  "description",
+  "district",
+  "website",
+  "source",
+  "listed"
+ ],
+ "companies": [
+  {
+   "name": "AI² Robotics",
+   "name_zh": "智平方",
+   "category": "Humanoid and legged robots",
+   "description": "General-purpose AlphaBot robots and Alpha Brain embodied-AI models",
+   "district": "",
+   "website": "https://www.ai2robotics.com",
+   "source": "https://www.ai2robotics.com/",
+   "listed": ""
+  },
+  {
+   "name": "EngineAI",
+   "name_zh": "众擎机器人",
+   "category": "Humanoid and legged robots",
+   "description": "Full-size and compact humanoid robots, including the T800, SA02 and PM01",
+   "district": "",
+   "website": "https://www.engineai.com.cn",
+   "source": "https://en.engineai.com.cn/about-us.html",
+   "listed": ""
+  },
+  {
+   "name": "Leju Robotics",
+   "name_zh": "乐聚",
+   "category": "Humanoid and legged robots",
+   "description": "Humanoid robots (Kuavo series) for research, education and industry",
+   "district": "",
+   "website": "https://www.lejurobot.com",
+   "source": "https://www.lejurobot.com/zh",
+   "listed": ""
+  },
+  {
+   "name": "LimX Dynamics",
+   "name_zh": "",
+   "category": "Humanoid and legged robots",
+   "description": "Humanoid, bipedal and wheel-legged robots and locomotion research platforms",
+   "district": "Nanshan",
+   "website": "https://www.limxdynamics.com",
+   "source": "https://www.limxdynamics.com/zh",
+   "listed": ""
+  },
+  {
+   "name": "UBTECH Robotics",
+   "name_zh": "优必选",
+   "category": "Humanoid and legged robots",
+   "description": "Humanoid robots (Walker series), service robots and education robots",
+   "district": "Nanshan",
+   "website": "https://www.ubtrobot.com",
+   "source": "https://www.ubtrobot.com/en/about/company-profile",
+   "listed": "HKEX: 9880"
+  },
+  {
+   "name": "X Square Robot",
+   "name_zh": "自变量机器人",
+   "category": "Humanoid and legged robots",
+   "description": "General-purpose robots and embodied-AI foundation models for manipulation",
+   "district": "Nanshan",
+   "website": "https://x2robot.com",
+   "source": "https://x2robot.com/",
+   "listed": ""
+  },
+  {
+   "name": "Dobot",
+   "name_zh": "越疆",
+   "category": "Industrial and collaborative robots",
+   "description": "Collaborative robot arms, desktop and education arms, and humanoid robots",
+   "district": "Nanshan",
+   "website": "https://www.dobot-robots.com",
+   "source": "https://www.dobot-robots.com/about/contact-us",
+   "listed": "HKEX: 2432"
+  },
+  {
+   "name": "Hitbot (Huiling Technology)",
+   "name_zh": "慧灵科技",
+   "category": "Industrial and collaborative robots",
+   "description": "Lightweight SCARA and desktop collaborative robots and electric grippers",
+   "district": "Bao'an",
+   "website": "https://www.hitbot.cc",
+   "source": "https://www.hitbot.cc/",
+   "listed": ""
+  },
+  {
+   "name": "Narwal",
+   "name_zh": "",
+   "category": "Service and delivery robots",
+   "description": "Household robot vacuums and mops, and wet-dry vacuums",
+   "district": "",
+   "website": "https://www.narwal.com",
+   "source": "https://www.thestar.com.my/tech/tech-news/2025/04/15/tencent-backed-household-robot-maker-narwal-raises-us100mil-ahead-of-pre-ipo-round",
+   "listed": ""
+  },
+  {
+   "name": "Pudu Robotics",
+   "name_zh": "普渡科技",
+   "category": "Service and delivery robots",
+   "description": "Commercial delivery, reception and cleaning robots for restaurants, hotels and buildings",
+   "district": "Nanshan",
+   "website": "https://www.pudurobotics.com",
+   "source": "https://www.pudutech.com/zh-CN",
+   "listed": ""
+  },
+  {
+   "name": "Hai Robotics",
+   "name_zh": "海柔创新",
+   "category": "Warehouse and mobile robots",
+   "description": "Autonomous case-handling robots (ACR) for warehouse storage and retrieval",
+   "district": "Bao'an",
+   "website": "https://www.hairobotics.com",
+   "source": "https://www.hairobotics.cn/contact",
+   "listed": ""
+  },
+  {
+   "name": "Syrius Robotics",
+   "name_zh": "",
+   "category": "Warehouse and mobile robots",
+   "description": "Autonomous mobile robots and orchestration software for warehouse picking and transport",
+   "district": "Nanshan",
+   "website": "https://www.syriustechnology.com",
+   "source": "https://www.syriustechnology.com/privacy-policy",
+   "listed": ""
+  },
+  {
+   "name": "Elephant Robotics",
+   "name_zh": "大象机器人",
+   "category": "Consumer and education robots",
+   "description": "Small robot arms (myCobot), mobile robots, humanoids and robot pets for education and research",
+   "district": "Futian",
+   "website": "https://www.elephantrobotics.com",
+   "source": "https://www.elephantrobotics.com/en/contact-us/",
+   "listed": ""
+  },
+  {
+   "name": "Makeblock",
+   "name_zh": "",
+   "category": "Consumer and education robots",
+   "description": "Programmable robot kits, coding hardware and software for STEAM education",
+   "district": "",
+   "website": "https://www.makeblock.com",
+   "source": "https://makeblock.com/blogs/news/ie-university-vice-president-cuhk-dean-visited-makeblock-s-headquarter-in-shenzhen-exchanging-innovations-in-edtech",
+   "listed": ""
+  },
+  {
+   "name": "Daimon Robotics",
+   "name_zh": "戴盟机器人",
+   "category": "Robot components",
+   "description": "Vision-based tactile sensors, dexterous hands and wearable data-collection devices",
+   "district": "Bao'an",
+   "website": "https://www.dmrobot.com",
+   "source": "https://www.dmrobot.com/",
+   "listed": ""
+  },
+  {
+   "name": "Leadshine Technology",
+   "name_zh": "雷赛智能",
+   "category": "Robot components",
+   "description": "Motion controllers, servo drives, stepper drives and motors for automation and robots",
+   "district": "Nanshan",
+   "website": "https://www.leadshine.com",
+   "source": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-07-09/09b6d029-e846-48f8-862c-f687590f608d.PDF",
+   "listed": "SZSE: 002979"
+  },
+  {
+   "name": "PaXini Tech",
+   "name_zh": "帕西尼感知科技",
+   "category": "Robot components",
+   "description": "Multi-dimensional tactile sensors, dexterous hands and tactile humanoid robots",
+   "district": "Bao'an",
+   "website": "https://www.paxini.com",
+   "source": "https://www.paxini.com/cn/contact",
+   "listed": ""
+  },
+  {
+   "name": "Zhaowei Machinery & Electronics",
+   "name_zh": "兆威机电",
+   "category": "Robot components",
+   "description": "Micro drive systems, gearboxes, and dexterous-hand actuators and robotic hands",
+   "district": "Bao'an",
+   "website": "https://www.zwgearbox.com",
+   "source": "https://www.zwgearbox.com/company-faq",
+   "listed": "SZSE: 003021; HKEX: 2692"
+  },
+  {
+   "name": "Elecrow",
+   "name_zh": "",
+   "category": "Dev boards and open hardware",
+   "description": "Maker hardware, display and AI education kits, plus PCB fabrication and assembly services",
+   "district": "Bao'an",
+   "website": "https://www.elecrow.com",
+   "source": "https://elecrow.com/blog/elecrow-will-move-to-new-office.html",
+   "listed": ""
+  },
+  {
+   "name": "Khadas",
+   "name_zh": "",
+   "category": "Dev boards and open hardware",
+   "description": "Single-board computers, mini PCs and accessories for developers",
+   "district": "Bao'an",
+   "website": "https://www.khadas.com",
+   "source": "https://www.khadas.com/contact",
+   "listed": ""
+  },
+  {
+   "name": "LILYGO",
+   "name_zh": "",
+   "category": "Dev boards and open hardware",
+   "description": "Open-source MCU and IoT boards and modules, plus STEM education kits",
+   "district": "Longgang",
+   "website": "https://lilygo.cc",
+   "source": "https://lilygo.cc/pages/about-us",
+   "listed": ""
+  },
+  {
+   "name": "M5Stack",
+   "name_zh": "",
+   "category": "Dev boards and open hardware",
+   "description": "Modular ESP32-based controllers, sensor units and development kits for IoT and edge AI",
+   "district": "Bao'an",
+   "website": "https://m5stack.com",
+   "source": "https://m5stack.com/about-us",
+   "listed": ""
+  },
+  {
+   "name": "Radxa",
+   "name_zh": "",
+   "category": "Dev boards and open hardware",
+   "description": "Single-board computers and compute modules built on Arm and RISC-V SoCs",
+   "district": "Bao'an",
+   "website": "https://radxa.com",
+   "source": "https://radxa.com/about",
+   "listed": ""
+  },
+  {
+   "name": "Seeed Studio",
+   "name_zh": "深圳矽递科技有限公司",
+   "category": "Dev boards and open hardware",
+   "description": "Open-source hardware: dev boards, sensor modules, edge-AI devices and PCB/PCBA services",
+   "district": "",
+   "website": "https://www.seeedstudio.com",
+   "source": "https://www.seeedstudio.com/about-us/",
+   "listed": ""
+  },
+  {
+   "name": "Sipeed",
+   "name_zh": "",
+   "category": "Dev boards and open hardware",
+   "description": "RISC-V and FPGA dev boards, AI camera modules and NanoKVM remote-access devices",
+   "district": "",
+   "website": "https://sipeed.com",
+   "source": "https://wiki.sipeed.com/hardware/en/maix/index.html",
+   "listed": ""
+  },
+  {
+   "name": "Waveshare",
+   "name_zh": "",
+   "category": "Dev boards and open hardware",
+   "description": "Displays, HATs, dev boards, sensor and communication modules for embedded projects",
+   "district": "Futian",
+   "website": "https://www.waveshare.com",
+   "source": "https://www.waveshare.com/help/contact.htm",
+   "listed": ""
+  },
+  {
+   "name": "Goodix",
+   "name_zh": "",
+   "category": "AI chips and modules",
+   "description": "Touch, fingerprint and sensor ICs, plus chips for IoT and automotive electronics",
+   "district": "",
+   "website": "https://www.goodix.com",
+   "source": "https://www.goodix.com/en/about_goodix/company_profile",
+   "listed": "SSE: 603160"
+  },
+  {
+   "name": "Intellifusion",
+   "name_zh": "云天励飞",
+   "category": "AI chips and modules",
+   "description": "AI inference chips and edge-computing products built on its own algorithms",
+   "district": "",
+   "website": "https://www.intellif.com",
+   "source": "https://www.intellif.com/",
+   "listed": "SSE: 688343"
+  },
+  {
+   "name": "Sanechips",
+   "name_zh": "深圳市中兴微电子技术有限公司",
+   "category": "AI chips and modules",
+   "description": "ICs for mobile, wired and wireless communications and for computing",
+   "district": "",
+   "website": "https://www.sanechips.com.cn",
+   "source": "https://www.sanechips.com.cn/",
+   "listed": ""
+  },
+  {
+   "name": "EAI Technology (YDLIDAR)",
+   "name_zh": "",
+   "category": "Vision and sensing",
+   "description": "Lidar and ranging sensors for service robots and other machines under the YDLIDAR brand",
+   "district": "",
+   "website": "https://www.ydlidar.com",
+   "source": "https://www.ydlidar.com/",
+   "listed": ""
+  },
+  {
+   "name": "LeiShen Intelligent System (LSLiDAR)",
+   "name_zh": "",
+   "category": "Vision and sensing",
+   "description": "Lidar sensors for autonomous driving, robotics, mapping and industrial uses",
+   "district": "Bao'an",
+   "website": "https://www.lslidar.com",
+   "source": "https://www.lslidar.com/company/company-profile/",
+   "listed": ""
+  },
+  {
+   "name": "Orbbec",
+   "name_zh": "",
+   "category": "Vision and sensing",
+   "description": "3D depth cameras and vision sensors for robotics and other applications",
+   "district": "Nanshan",
+   "website": "https://www.orbbec.com",
+   "source": "https://www.orbbec.com/contact-us/",
+   "listed": "SSE: 688322"
+  },
+  {
+   "name": "RoboSense",
+   "name_zh": "速腾聚创",
+   "category": "Vision and sensing",
+   "description": "Lidar sensors and perception products for vehicles and robots",
+   "district": "Nanshan",
+   "website": "https://www.robosense.ai",
+   "source": "https://www.robosense.ai/en/about",
+   "listed": "HKEX: 2498"
+  },
+  {
+   "name": "SinceVision",
+   "name_zh": "",
+   "category": "Vision and sensing",
+   "description": "Industrial 3D laser profilers, displacement sensors and high-speed cameras",
+   "district": "Nanshan",
+   "website": "https://www.sincevision.com",
+   "source": "https://www.sincevision.com/",
+   "listed": ""
+  },
+  {
+   "name": "Even Realities",
+   "name_zh": "",
+   "category": "AI consumer devices",
+   "description": "Smart glasses with a display (HUD) and no camera, plus a companion smart ring",
+   "district": "",
+   "website": "https://www.evenrealities.com",
+   "source": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+   "listed": ""
+  },
+  {
+   "name": "Insta360 (Arashi Vision)",
+   "name_zh": "",
+   "category": "AI consumer devices",
+   "description": "360-degree and action cameras, webcams, gimbals and editing software",
+   "district": "",
+   "website": "https://www.insta360.com",
+   "source": "https://www.scmp.com/tech/tech-trends/article/3313956/chinese-gopro-rival-insta360-sees-strong-debut-shanghai-ipo-firm-eyes-expansion",
+   "listed": "SSE: 688775"
+  },
+  {
+   "name": "OBSBOT",
+   "name_zh": "寻影",
+   "category": "AI consumer devices",
+   "description": "AI-tracking PTZ cameras, webcams and live-production equipment",
+   "district": "",
+   "website": "https://www.obsbot.com",
+   "source": "https://esportsworldcup.com/en/press-releases/ewcf-welcomes-obsbot-as-official-livestream-camera-and-webcam-partner",
+   "listed": ""
+  },
+  {
+   "name": "RayNeo",
+   "name_zh": "",
+   "category": "AI consumer devices",
+   "description": "AR and AI smart glasses",
+   "district": "",
+   "website": "https://www.rayneo.com",
+   "source": "https://www.caixinglobal.com/2026-01-06/chinas-telecom-giants-back-smart-glasses-maker-rayneo-in-143-million-funding-round-102400654.html",
+   "listed": ""
+  },
+  {
+   "name": "Autel Robotics",
+   "name_zh": "道通智能",
+   "category": "Drones and low-altitude aircraft",
+   "description": "Consumer and industrial drones and related ground systems",
+   "district": "Nanshan",
+   "website": "https://www.autelrobotics.com",
+   "source": "https://www.autelrobotics.cn/contact-us",
+   "listed": ""
+  },
+  {
+   "name": "DJI",
+   "name_zh": "大疆",
+   "category": "Drones and low-altitude aircraft",
+   "description": "Consumer, professional and agricultural drones, camera gimbals and handheld imaging products",
+   "district": "Nanshan",
+   "website": "https://www.dji.com",
+   "source": "https://www.dji.com/contact",
+   "listed": ""
+  },
+  {
+   "name": "Feima Robotics",
+   "name_zh": "飞马机器人",
+   "category": "Drones and low-altitude aircraft",
+   "description": "Surveying and mapping drones, LiDAR payloads and handheld SLAM scanners",
+   "district": "",
+   "website": "https://www.feimarobotics.net",
+   "source": "https://www.feimarobotics.net/",
+   "listed": ""
+  },
+  {
+   "name": "MMC",
+   "name_zh": "科比特航空",
+   "category": "Drones and low-altitude aircraft",
+   "description": "Industrial drones, payloads, ground stations and low-altitude management systems",
+   "district": "Bao'an",
+   "website": "https://www.mmcuav.cn",
+   "source": "https://www.mmcuav.cn/",
+   "listed": ""
+  },
+  {
+   "name": "BYD",
+   "name_zh": "比亚迪",
+   "category": "Autonomous driving",
+   "description": "Electric vehicles, batteries and in-house driver-assistance systems",
+   "district": "Pingshan",
+   "website": "https://www.bydglobal.com",
+   "source": "https://static.cninfo.com.cn/finalpage/enpage/002594_2.pdf",
+   "listed": "SZSE: 002594; HKEX: 1211"
+  },
+  {
+   "name": "DeepRoute.ai",
+   "name_zh": "元戎启行",
+   "category": "Autonomous driving",
+   "description": "Assisted-driving software for production cars, including a vision-language-action (VLA) driving model",
+   "district": "",
+   "website": "https://www.deeproute.ai",
+   "source": "https://kyodonewsprwire.jp/release/202508264110",
+   "listed": ""
+  },
+  {
+   "name": "MINIEYE",
+   "name_zh": "佑驾创新",
+   "category": "Autonomous driving",
+   "description": "ADAS and assisted-driving systems, cockpit AI and unmanned vehicles",
+   "district": "",
+   "website": "https://www.minieye.cc",
+   "source": "https://kr-asia.com/minieye-backed-by-alibabas-daniel-zhang-shines-in-hkex-debut",
+   "listed": "HKEX: 2431"
+  },
+  {
+   "name": "Zhuoyu Technology",
+   "name_zh": "卓驭科技",
+   "category": "Autonomous driving",
+   "description": "Driver-assistance systems for automakers",
+   "district": "",
+   "website": "https://www.zyt.com",
+   "source": "https://technode.com/2025/06/09/djis-car-tech-unit-raises-new-funds-from-chinese-automakers-gac-and-baic/",
+   "listed": ""
+  },
+  {
+   "name": "Kingdee",
+   "name_zh": "金蝶",
+   "category": "AI software and models",
+   "description": "Enterprise ERP and SaaS software, including an enterprise AI platform",
+   "district": "Nanshan",
+   "website": "https://www.kingdee.com",
+   "source": "https://investor.kingdee.com/en/understand/profile/",
+   "listed": "HKEX: 0268"
+  },
+  {
+   "name": "XVERSE Technology",
+   "name_zh": "元象",
+   "category": "AI software and models",
+   "description": "XVERSE open-source large language models and AI 3D content generation tools",
+   "district": "",
+   "website": "https://xverse.cn",
+   "source": "https://xverse.cn/",
+   "listed": ""
+  },
+  {
+   "name": "Zhuiyi Technology",
+   "name_zh": "追一科技",
+   "category": "AI software and models",
+   "description": "Conversational AI, voice bots, digital humans and a domain LLM for enterprise service",
+   "district": "Nanshan",
+   "website": "https://www.zhuiyi.ai",
+   "source": "https://www.zhuiyi.ai/",
+   "listed": ""
+  },
+  {
+   "name": "Foxconn Industrial Internet",
+   "name_zh": "工业富联",
+   "category": "Industrial AI and smart manufacturing",
+   "description": "Cloud and AI servers and network equipment",
+   "district": "Longhua",
+   "website": "https://www.fii-foxconn.com",
+   "source": "https://www.scmp.com/tech/big-tech/article/3230397/foxconns-shenzhen-based-subsidiary-exclusively-supply-apple-ai-servers-made-vietnam-report",
+   "listed": "SSE: 601138"
+  },
+  {
+   "name": "Han's Laser",
+   "name_zh": "大族激光",
+   "category": "Industrial AI and smart manufacturing",
+   "description": "Laser processing, robotic and automation equipment for manufacturing",
+   "district": "Nanshan",
+   "website": "https://www.hanslaser.com",
+   "source": "https://static.cninfo.com.cn/finalpage/enpage/002008_2.pdf",
+   "listed": "SZSE: 002008"
+  },
+  {
+   "name": "Inovance Technology",
+   "name_zh": "汇川技术",
+   "category": "Industrial AI and smart manufacturing",
+   "description": "Industrial automation (drives, PLCs, servos), industrial robots and EV powertrain systems",
+   "district": "Longhua",
+   "website": "https://www.inovance.com",
+   "source": "https://static.cninfo.com.cn/finalpage/enpage/300124_2.pdf",
+   "listed": "SZSE: 300124"
+  },
+  {
+   "name": "HONOR",
+   "name_zh": "荣耀",
+   "category": "Large tech with AI and robotics divisions",
+   "description": "Smartphones, PCs and other AI-enabled consumer devices",
+   "district": "",
+   "website": "https://www.honor.com",
+   "source": "https://www.chinadailyhk.com/hk/article/612849",
+   "listed": ""
+  },
+  {
+   "name": "Huawei",
+   "name_zh": "华为",
+   "category": "Large tech with AI and robotics divisions",
+   "description": "Telecom equipment, devices, cloud services, Ascend AI chips and Pangu models",
+   "district": "Longgang",
+   "website": "https://www.huawei.com",
+   "source": "https://www.huawei.com/en/contact-us",
+   "listed": ""
+  },
+  {
+   "name": "Tencent",
+   "name_zh": "腾讯",
+   "category": "Large tech with AI and robotics divisions",
+   "description": "Games, cloud services, Hunyuan AI models and robotics research at its Robotics X lab",
+   "district": "Nanshan",
+   "website": "https://www.tencent.com",
+   "source": "https://www.tencent.com/en-us/about.html",
+   "listed": "HKEX: 0700"
+  },
+  {
+   "name": "ZTE",
+   "name_zh": "中兴通讯",
+   "category": "Large tech with AI and robotics divisions",
+   "description": "Telecom network equipment, computing infrastructure and consumer devices",
+   "district": "Nanshan",
+   "website": "https://www.zte.com.cn",
+   "source": "https://www.zte.com.cn/global/about/corporate_information.html",
+   "listed": "SZSE: 000063; HKEX: 0763"
+  }
+ ]
+}
