@@ -1,10 +1,10 @@
 # Shenzhen robotics and AI companies
 
-Many companies that build robots, drones, sensors and AI hardware are headquartered in Shenzhen. This index lists 56 of them by what they make, with each company's official website and the source we used to confirm its headquarters.
+Many companies that build robots, drones, sensors and AI hardware have headquarters in Shenzhen. This index lists 63 of them by what they make, with each company's official website and the source used to confirm its headquarters.
 
 Browse the full list, grouped by what each company makes, at https://shenzhenassistant.com/directory/robotics-ai. The same data is here as JSON and CSV so you can reuse it.
 
-Last checked: 2026-11-11. 56 companies.
+Updated: 2026-11-16. Earlier entries last checked: 2026-11-11. 63 companies.
 
 - [Robotics](#robotics)
 - [AI hardware and sensing](#ai-hardware-and-sensing)
@@ -22,6 +22,8 @@ Last checked: 2026-11-11. 56 companies.
 | [LimX Dynamics](https://www.limxdynamics.com) | Humanoid, bipedal and wheel-legged robots and locomotion research platforms | Nanshan |  | [source](https://www.limxdynamics.com/zh) |
 | [UBTECH Robotics](https://www.ubtrobot.com) 优必选 | Humanoid robots (Walker series), service robots and education robots | Nanshan | HKEX: 9880 | [source](https://www.ubtrobot.com/en/about/company-profile) |
 | [X Square Robot](https://x2robot.com) 自变量机器人 | General-purpose robots and embodied-AI foundation models for manipulation | Nanshan |  | [source](https://x2robot.com/) |
+| [Digital Huaxia](https://www.digit.com.cn/) 数字华夏 | Humanoid service robots and RoboEase software for reception and visitor guidance | Nanshan |  | [source](https://www.digit.com.cn/NewsDetail/228.html) |
+| [DexForce](https://dexforce.com/) 跨维智能 | Humanoid robots, 3D vision sensors and simulation software for embodied AI | Nanshan |  | [source](https://dexforce.com/terms.html) |
 
 ### Industrial and collaborative robots
 
@@ -29,6 +31,7 @@ Last checked: 2026-11-11. 56 companies.
 |---|---|---|---|---|
 | [Dobot](https://www.dobot-robots.com) 越疆 | Collaborative robot arms, desktop and education arms, and humanoid robots | Nanshan | HKEX: 2432 | [source](https://www.dobot-robots.com/about/contact-us) |
 | [Hitbot (Huiling Technology)](https://www.hitbot.cc) 慧灵科技 | Lightweight SCARA and desktop collaborative robots and electric grippers | Bao'an |  | [source](https://www.hitbot.cc/) |
+| [Huayan Robotics](https://www.huayan-robotics.com/) 华沿机器人 | Elfin collaborative robots, humanoid arms and motion components; formerly Han’s Robot | Bao'an |  | [source](https://www.huayan-robotics.com/about-us/news/2499.html) |
 
 ### Service and delivery robots
 
@@ -50,6 +53,7 @@ Last checked: 2026-11-11. 56 companies.
 |---|---|---|---|---|
 | [Elephant Robotics](https://www.elephantrobotics.com) 大象机器人 | Small robot arms (myCobot), mobile robots, humanoids and robot pets for education and research | Futian |  | [source](https://www.elephantrobotics.com/en/contact-us/) |
 | [Makeblock](https://www.makeblock.com) | Programmable robot kits, coding hardware and software for STEAM education | Shenzhen |  | [source](https://makeblock.com/blogs/news/ie-university-vice-president-cuhk-dean-visited-makeblock-s-headquarter-in-shenzhen-exchanging-innovations-in-edtech) |
+| [Yarbo (Hanyang Technology)](https://www.hanyangtech.cn/) 汉阳科技 | Modular outdoor robots for lawn mowing, snow clearing and yard maintenance | Longhua |  | [source](https://www.hanyangtech.cn/about) |
 
 ### Robot components
 
@@ -59,6 +63,13 @@ Last checked: 2026-11-11. 56 companies.
 | [Leadshine Technology](https://www.leadshine.com) 雷赛智能 | Motion controllers, servo drives, stepper drives and motors for automation and robots | Nanshan | SZSE: 002979 | [source](https://disc.static.szse.cn/disc/disk03/finalpage/2026-07-09/09b6d029-e846-48f8-862c-f687590f608d.PDF) |
 | [PaXini Tech](https://www.paxini.com) 帕西尼感知科技 | Multi-dimensional tactile sensors, dexterous hands and tactile humanoid robots | Bao'an |  | [source](https://www.paxini.com/cn/contact) |
 | [Zhaowei Machinery & Electronics](https://www.zwgearbox.com) 兆威机电 | Micro drive systems, gearboxes, and dexterous-hand actuators and robotic hands | Bao'an | SZSE: 003021; HKEX: 2692 | [source](https://www.zwgearbox.com/company-faq) |
+| [DH-Robotics](https://www.dh-robotics.com/) 大寰机器人 | Electric grippers, dexterous hands and precision motion actuators for industrial robots | Nanshan |  | [source](https://www.dh-robotics.com/about) |
+
+### Rehabilitation and assistive robots
+
+| Company | What they make | District | Listed | Source |
+|---|---|---|---|---|
+| [MileBot](https://www.milebot.com.cn/zh-cn/) 迈步机器人 | Rehabilitation exoskeletons and walking-assistance robots | Nanshan |  | [source](https://www.milebot.com.cn/zh-cn/about/) |
 
 ## AI hardware and sensing
 
@@ -92,6 +103,7 @@ Last checked: 2026-11-11. 56 companies.
 | [Orbbec](https://www.orbbec.com) | 3D depth cameras and vision sensors for robotics and other applications | Nanshan | SSE: 688322 | [source](https://www.orbbec.com/contact-us/) |
 | [RoboSense](https://www.robosense.ai) 速腾聚创 | Lidar sensors and perception products for vehicles and robots | Nanshan | HKEX: 2498 | [source](https://www.robosense.ai/en/about) |
 | [SinceVision](https://www.sincevision.com) | Industrial 3D laser profilers, displacement sensors and high-speed cameras | Nanshan |  | [source](https://www.sincevision.com/) |
+| [LDROBOT](https://www.ldrobot.com/) 乐动机器人 | Robot perception systems, lidar sensors and ANTHBOT robotic lawn mowers | Nanshan | HKEX: 1236 | [source](https://www.ldrobot.com/about) |
 
 ### AI consumer devices
 

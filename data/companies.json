@@ -1,6 +1,7 @@
 {
  "title": "Shenzhen robotics and AI companies",
  "checked": "2026-11-11",
+ "updated": "2026-11-16",
  "source": "https://shenzhenassistant.com/directory/robotics-ai",
  "license": "CC BY 4.0",
  "fields": [
@@ -573,6 +574,76 @@
    "website": "https://www.zte.com.cn",
    "source": "https://www.zte.com.cn/global/about/corporate_information.html",
    "listed": "SZSE: 000063; HKEX: 0763"
+  },
+  {
+   "name": "LDROBOT",
+   "name_zh": "乐动机器人",
+   "category": "Vision and sensing",
+   "description": "Robot perception systems, lidar sensors and ANTHBOT robotic lawn mowers",
+   "district": "Nanshan",
+   "website": "https://www.ldrobot.com/",
+   "source": "https://www.ldrobot.com/about",
+   "listed": "HKEX: 1236"
+  },
+  {
+   "name": "Yarbo (Hanyang Technology)",
+   "name_zh": "汉阳科技",
+   "category": "Consumer and education robots",
+   "description": "Modular outdoor robots for lawn mowing, snow clearing and yard maintenance",
+   "district": "Longhua",
+   "website": "https://www.hanyangtech.cn/",
+   "source": "https://www.hanyangtech.cn/about",
+   "listed": ""
+  },
+  {
+   "name": "DH-Robotics",
+   "name_zh": "大寰机器人",
+   "category": "Robot components",
+   "description": "Electric grippers, dexterous hands and precision motion actuators for industrial robots",
+   "district": "Nanshan",
+   "website": "https://www.dh-robotics.com/",
+   "source": "https://www.dh-robotics.com/about",
+   "listed": ""
+  },
+  {
+   "name": "MileBot",
+   "name_zh": "迈步机器人",
+   "category": "Rehabilitation and assistive robots",
+   "description": "Rehabilitation exoskeletons and walking-assistance robots",
+   "district": "Nanshan",
+   "website": "https://www.milebot.com.cn/zh-cn/",
+   "source": "https://www.milebot.com.cn/zh-cn/about/",
+   "listed": ""
+  },
+  {
+   "name": "Digital Huaxia",
+   "name_zh": "数字华夏",
+   "category": "Humanoid and legged robots",
+   "description": "Humanoid service robots and RoboEase software for reception and visitor guidance",
+   "district": "Nanshan",
+   "website": "https://www.digit.com.cn/",
+   "source": "https://www.digit.com.cn/NewsDetail/228.html",
+   "listed": ""
+  },
+  {
+   "name": "DexForce",
+   "name_zh": "跨维智能",
+   "category": "Humanoid and legged robots",
+   "description": "Humanoid robots, 3D vision sensors and simulation software for embodied AI",
+   "district": "Nanshan",
+   "website": "https://dexforce.com/",
+   "source": "https://dexforce.com/terms.html",
+   "listed": ""
+  },
+  {
+   "name": "Huayan Robotics",
+   "name_zh": "华沿机器人",
+   "category": "Industrial and collaborative robots",
+   "description": "Elfin collaborative robots, humanoid arms and motion components; formerly Han’s Robot",
+   "district": "Bao'an",
+   "website": "https://www.huayan-robotics.com/",
+   "source": "https://www.huayan-robotics.com/about-us/news/2499.html",
+   "listed": ""
   }
  ]
 }
